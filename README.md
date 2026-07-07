@@ -5,7 +5,6 @@
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Entry](https://img.shields.io/badge/Data_Entry-Professional-blue?style=for-the-badge)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-Experienced-success?style=for-the-badge)
 ![Data Validation](https://img.shields.io/badge/Data_Validation-Experienced-green?style=for-the-badge)
 ![Spreadsheet Management](https://img.shields.io/badge/Spreadsheet_Management-Advanced-brightgreen?style=for-the-badge)
