@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Generate BrightPath datasets",
+			"type": "shell",
+			"command": "C:\\Users\\micof\\anaconda3\\python.exe",
+			"args": [
+				"excel-case-study\\generate_brightpath_dataset.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
